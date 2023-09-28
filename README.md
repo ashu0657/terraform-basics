@@ -16,3 +16,11 @@ It allows you to define and provision infrastructure resources in a declarative 
 With Terraform, you can define the desired state of your infrastructure using a domain-specific language called HashiCorp Configuration Language (HCL) 
 
 ```
+
+>>> Outputs Sample Code
+
+
+```
+https://github.com/terraform-aws-modules/terraform-aws-vpc/blob/master/outputs.tf
+
+```
